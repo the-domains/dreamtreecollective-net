@@ -1,0 +1,14 @@
+layout_spectrum: 0.8859417
+color:
+  saturation: 0.7489362
+  brandStrength: 0.4827185
+  lightness: 0.8129267
+  rhythmicContrast: 0.5014901
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.4432982
+name: DreamTreeCollective.net
